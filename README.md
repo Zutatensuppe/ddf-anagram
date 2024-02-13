@@ -3,8 +3,13 @@
 ## Usage
 
 ```console
-cargo run "dass milieu jenes agents"
+cargo run ANAGRAM
 ```
 
-> Anagram: "dass milieu jenes agents"
-> Solution: Signale aus dem Jenseits
+Example:
+
+```
+$ cargo run "dass milieu jenes agents"  
+Anagram: "dass milieu jenes agents"  
+Solution: Signale aus dem Jenseits
+```
